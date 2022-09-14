@@ -7,7 +7,7 @@ Full Stack Developer and Designer
 I've been working on ionic angular since 2020. And i am working in Learn2Earn Professional Institute of Computer Sciences.
 
 * 🌍  I'm based in Pakpattan, Punjab, Pakistan
-* ✉️  You can contact me at [haroon@learn2earnn.com](mailto:haroon@learn2earnn.com)
+* ✉️  You can contact me at [haroonchlearn2earn@gmail.com](mailto:haroonchlearn2earn@gmail.com)
 * 🚀  I'm currently working on [Learn2Earn Software Solutions](http://learn2earnn.com)
 * 🧠  I'm learning Ionic, Angular, NodeJS, PHP, SQL
 * 🤝  I'm open to collaborating on Ionic Angular Apps
