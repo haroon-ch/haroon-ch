@@ -57,3 +57,5 @@ src="https://img.shields.io/github/followers/haroon-ch?logo=github&style=for-the
 <a href="http://www.github.com/haroon-ch"><img src="https://activity-graph.herokuapp.com/graph?username=haroon-ch&bg_color=ffffff&color=0891b2&line=0891b2&point=0891b2&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/haroon-ch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haroon-ch&langs_count=10&title_color=3382ed&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=haroon-ch&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
