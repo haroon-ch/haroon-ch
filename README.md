@@ -50,7 +50,6 @@ src="https://img.shields.io/github/followers/haroon-ch?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/haroon-ch"><img src="https://github-readme-stats.vercel.app/api?username=haroon-ch&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="haroon-ch's GitHub stats" /></a>
 
 <a href="http://www.github.com/haroon-ch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon-ch&stroke=0891b2&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
